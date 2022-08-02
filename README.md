@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 My Portfolio [https://mutasim.netlify.app/](https://mutasim.netlify.app/)
+- 👨‍💻 [My Portfolio](https://mutasim.netlify.app/)
 
 - 💬 Ask me about **react, vue**
 

@@ -4,11 +4,9 @@
 <h3 align="center">Professional web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://viewertech.net/wp-content/uploads/2020/09/eco.gif" />
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **React.js, Next.js**
 
 - 👨‍💻 [My Portfolio](https://mutasim.netlify.app/)
-
-- 💬 Ask me about **react, vue**
 
 - 📫 How to reach me **mutasimshatil@hotmail.com**
 
@@ -30,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sshatil&show_icons=true&locale=en&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="sshatil" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sshatil&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="sshatil" /></p>
 
 
